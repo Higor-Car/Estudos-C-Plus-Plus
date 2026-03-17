@@ -15,7 +15,7 @@ int main(){
 	igual=0;
 	
 	for(contador=0;contador<5;++contador){
-		cout<<"Digite o "<<contador+	1<<" número:\n ";
+		cout<<"Digite o "<<contador+	1<<" nÃºmero:\n ";
 		cin>>numero[contador];
 	}
 	
@@ -29,9 +29,9 @@ int main(){
 		}
 	}
 	
-cout<<"Foram "<<maior<<" números maiores\n";
-cout<<"Foram "<<menor<<" números menores\n";
-cout<<"Foram "<<igual<<" números iguais\n";
+cout<<"Foram "<<maior<<" nÃºmeros maiores\n";
+cout<<"Foram "<<menor<<" nÃºmeros menores\n";
+cout<<"Foram "<<igual<<" nÃºmeros iguais\n";
 	
 
 system("Pause");
