@@ -17,7 +17,7 @@ return 0;
 
 void contarDeumAteDez(int numero,int contador){
 	
-	cout<<"Número da função: "<<contador<<"\n";
+	cout<<"NÃºmero da funÃ§Ã£o: "<<contador<<"\n";
 	
 	if(numero<contador){
 		contarDeumAteDez(numero, --contador);
